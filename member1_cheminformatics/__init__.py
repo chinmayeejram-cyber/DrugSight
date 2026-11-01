@@ -1,0 +1,1 @@
+"""Member 1: Cheminformatics module for DrugSight (EGFR data collection, cleaning, features)."""
