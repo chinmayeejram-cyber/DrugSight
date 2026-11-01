@@ -1,0 +1,18 @@
+# core
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+rdkit
+# deep learning (GCN) - on Windows `pip install torch` gives the CPU build
+torch
+# models + explainability
+xgboost
+shap
+# web app
+streamlit
+# optional: molecule drawing box in the app (the app still works without it)
+streamlit-ketcher
+# member1 (data collection)
+chembl_webresource_client
